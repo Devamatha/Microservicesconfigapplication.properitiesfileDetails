@@ -1,0 +1,1 @@
+# Microservicesconfigapplication.properitiesfileDetails
