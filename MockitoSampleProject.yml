@@ -18,8 +18,6 @@ spring:
     admin:
       client:
         url: http://localhost:1111/
-  config:
-    import: optional:configserver:http://localhost:9093
 server:
   port: 9091
 management:
